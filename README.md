@@ -14,3 +14,4 @@
 ## 課程筆記區
 ## 作業連結區
 > * [作業一](https://youtu.be/tr0HxjuEK58)
+> * [作業二](https://youtu.be/ZrmRtoWmq3w)
